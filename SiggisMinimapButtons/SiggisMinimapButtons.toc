@@ -1,0 +1,9 @@
+## Interface: 11507
+## Title: Siggi's Minimap Buttons
+## Notes: Ever felt like your minimap just doesn't have ENOUGH buttons? Yeah, us neither. Clutter it up with as many fake buttons as your heart desires. Your guildmates will love you for it. (They won't.)
+## Author: Siggi
+## Version: 1.0.0
+## SavedVariables: SiggisMinimapButtonsDB
+
+SiggisMinimapButtons.lua
+Options.lua
