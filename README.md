@@ -1,7 +1,7 @@
 # Siggi's Minimap Buttons
 
 > *Ever felt like your minimap just doesn't have ENOUGH buttons?*
-> *Yeah, us neither.*
+> *Yeah, me neither.*
 
 Clutter it up with as many fake buttons as your heart desires. Your guildmates will love you for it. *(They won't.)*
 
@@ -9,7 +9,7 @@ Clutter it up with as many fake buttons as your heart desires. Your guildmates w
 
 ## 🤔 Why Does This Exist?
 
-Great question. We don't have a good answer.
+Great question. I don't have a good answer.
 
 Maybe you want to look important. Maybe you want people to think you have 47 addons installed. Maybe you just want to watch the world burn — one tiny circular button at a time.
 
@@ -99,6 +99,6 @@ A: `/siggi removeall`, then delete the addon folder. Or just leave the buttons t
 
 ## 🫡 Credits
 
-Made with questionable judgment by **Siggi**.
+Made with questionable judgment by **EypoRage** during his work time.
 
 *No minimaps were harmed in the making of this addon. Several were mildly inconvenienced.*
